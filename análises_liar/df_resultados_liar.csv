@@ -1,0 +1,13 @@
+Dados,Métrica,Meta-classificador,k,Resultado
+Liar,acc,LR,21,"0,228"
+Liar,pre,LR,20,"0,231"
+Liar,rec,LR,21,"0,258"
+Liar,f1,LR,21,"0,226"
+Liar,acc,RF,19,"0,241"
+Liar,pre,RF,11,"0,24"
+Liar,rec,RF,10,"0,22"
+Liar,f1,RF,5,"0,215"
+Liar,acc,NB,1,"0,24"
+Liar,pre,NB,1,"0,247"
+Liar,rec,NB,5,"0,257"
+Liar,f1,NB,5,"0,218"
